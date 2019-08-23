@@ -1,6 +1,9 @@
 'use strict';
 /*
-	npm install express cors multer body-parser
+	npm ln express
+	npm ln cors
+	npm ln multer
+	npm ln body-parser
 */
 var express = require('express');
 var cors = require('cors');

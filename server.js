@@ -1,8 +1,13 @@
 'use strict';
 /*
 	npm ln express
+<<<<<<< HEAD
 	npm ln cors
 	npm ln multer
+=======
+	npm ln cors 
+	npm ln multer 
+>>>>>>> 73587d76cc18507a45c15efec3adda09efac93ef
 	npm ln body-parser
 */
 var express = require('express');
